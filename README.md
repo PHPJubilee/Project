@@ -13,7 +13,7 @@ It is fairly frequently to see this constellation of issues come up in the PHP d
 
 The group will decide from [a list of PHP projects](https://github.com/PHPJubilee/Project/issues/1) a new project to contribute to every two weeks.
 
-Every two weeks, the org will fork the new repo on github. Everyone that has joined the org will have write access to the forked repo. They will of course also be able to fork it themselves if they want, but particularly because I thought this could be helpful for novice developers that want a way to get their feet wet, I think that development should primarily be from the Org's fork.
+Every two weeks, the org will fork the new repo on github. Everyone that has joined the org will have write access to the forked repo. They will of course also be able to fork it themselves if they want, but particularly because this could be helpful for novice developers that want a way to get their feet wet, development should primarily be from the Org's fork.
 
 Each user will create their own feature branch, the org will create it's own issues list and assign them out, and we will provide the project maintainer with one pull request per issue we close (on our end).
 
