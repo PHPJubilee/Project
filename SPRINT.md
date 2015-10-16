@@ -23,6 +23,6 @@ The Jubilee lead gives each open issue at least one label for a team (each team 
 
 Development! We all buckle in and try to make as much improvement, and forgive as much technical debt as we can.
 
-## S+10 - S+14
+## S+10 - E
 
 Pull requests are made from each feature branch into the original project. Be sure to communicate with the person maintaining the original project if they have notes or changes in the pull request that need to be addressed before the pull request can be merged.
