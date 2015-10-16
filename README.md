@@ -31,7 +31,7 @@ The kinds of things that we would (primarily) be looking to help with, in order 
 
 ## Other Important Information
 
-[Jubilee Project Schedule](SCHEDULE.md) | [Sprint Process](SPRINT.md)
+[Jubilee Project Schedule](SCHEDULE.md) | [Sprint Process](SPRINT.md) | [Branching Strategy](BRANCHING.md)
 
 ## How can I join as a developer?
 
