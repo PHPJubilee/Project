@@ -42,9 +42,13 @@ It's very important that the branches are named correctly, so that we don't acci
 
 ### Commits
 
+#### Commit Comments
+
 Everyone should get out of the habbit of using the -m option on the `git commit` command. Most of the time, commit messages *should* be very detailed. The only times you will ever actually use commit messages, you very much want them to be detailed.
 
 Using `git commit` without the -m option will force you to use the multi-line message tool (nano by default on Ubuntu), which makes it easier to be more detailed.
+
+#### Workflow in Commit Comments
 
 The commit which closes your ticket should END with [closes #4] or something similar, where 4 is replaced by the issue number in that repo. The octothorp (#) character needs to go in front of the number.
 
