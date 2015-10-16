@@ -13,7 +13,7 @@ The repository is prepped with all of the custom labels that we will be using, a
 
 ## S - S+2
 
-The group looks through the codebase and identifies problems that can be made, creating the issues for them. The Jubilee lead (the person leading that sprint) makes sure they are all labeled.
+The group looks through the codebase and identifies problems or improvements that can be made, creating the issues for them. The Jubilee lead (the person leading that sprint) makes sure they are all labeled.
 
 ## S+2
 
