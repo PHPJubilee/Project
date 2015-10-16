@@ -29,6 +29,10 @@ The kinds of things that we would (primarily) be looking to help with, in order 
 4. Ensuring that the code has DocBlock comments so that IDEs can work easily with the project.
 5. Identify areas of the project that need to be fixed for best practices & coding style (as specified by the project itself).
 
+## Other Important Information
+
+[Jubilee Project Schedule](SCHEDULE.md) | [Sprint Process](SPRINT.md)
+
 ## How can I join as a developer?
 
 Leave a comment [here](https://github.com/PHPJubilee/Project/issues/2).
