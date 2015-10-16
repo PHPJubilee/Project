@@ -19,7 +19,7 @@ Each user will create their own feature branch, the org will create it's own iss
 
 The whole idea of this would be to roll through the PHP community and for one project every two weeks "forgive their technical debt": thus, Jubilee.
 
-## What sort of things will the group try and do?
+## What sort of things will the group try to do?
 
 The kinds of things that we would (primarily) be looking to help with, in order of importance:
 
