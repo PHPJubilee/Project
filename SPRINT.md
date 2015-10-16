@@ -15,7 +15,7 @@ The repository is prepped with all of the custom labels that we will be using, a
 
 The group looks through the codebase and identifies problems or improvements that can be made, creating the issues for them. The Jubilee lead (the person leading that sprint) makes sure they are all labeled.
 
-## S+2
+## S+2 (Will always be a Saturday)
 
 The Jubilee lead gives each open issue at least one label for a team (each team will have a label in the repository). Each team should try to close all of their issues before moving on to helping other teams, if possible.
 
