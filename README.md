@@ -4,7 +4,7 @@
 
 ## What is the Jubilee?
 
-It is fairly frequently to see this constellation of issues come up in the PHP developer community:
+It is fairly common to see this constellation of issues come up in the PHP developer community:
 
 - "I'm not a Junior dev, but I don't know where to start when it comes to contributing to projects."
 - "I don't know what projects need what help, or how to find them."
