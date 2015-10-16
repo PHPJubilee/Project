@@ -6,7 +6,7 @@
 
 The "source of truth" for the codebase will always be the dev branch of the original project. For some projects, this is actually the `master` branch, others use `dev`, and others use something else.
 
-**No commits will ever be made to this branch, and no pull requests will be made into that branch on our fork.**
+**No commits will ever be made to this branch, and no pull requests will be made into that branch on our fork unless the pull request has already been merged with the original repository.**
 
 This is so that we can:
 
