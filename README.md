@@ -2,6 +2,8 @@
 
 ### *Forgiving technical debt, two weeks at a time*
 
+Join our online chat at [![PHPJubilee](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PHPJubilee?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## What is the Jubilee?
 
 It is fairly common to see this constellation of issues come up in the PHP developer community:
