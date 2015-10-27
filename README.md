@@ -2,7 +2,7 @@
 
 ### *Forgiving technical debt, two weeks at a time*
 
-Join our online chat at [![PHPJubilee](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PHPJubilee?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+Join our online chat at [![PHPJubilee](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PHPJubilee?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or at ![PHPJubilee](https://img.shields.io/badge/irc.freenode.net-%23PHPJubilee-blue.svg)
 
 ## What is the Jubilee?
 
