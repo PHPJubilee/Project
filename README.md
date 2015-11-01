@@ -1,6 +1,8 @@
-# PHPJubilee | [Voting For Jubilee 1](https://github.com/PHPJubilee/Project/issues/8)
+# PHPJubilee
 
 ### *Forgiving technical debt, two weeks at a time*
+
+## Next Jubilee: [Fermat](https://github.com/JordanRL/Fermat) | Fork: Nov 10th | Starts: Nov 12th
 
 Join our online chat at [![PHPJubilee](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/PHPJubilee?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or at ![PHPJubilee](https://img.shields.io/badge/irc.freenode.net-%23PHPJubilee-blue.svg)
 
